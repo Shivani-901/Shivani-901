@@ -1,3 +1,5 @@
+![logo](https://github.com/Shivani-901/Shivani-901/blob/main/Navy%20Blue%20Futuristic%20Virtual%20Technology%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Shivani BM</h1>
 <h3 align="center">A passionate Web developer | Data engineer | Java Full Stack Developer</h3>
 
